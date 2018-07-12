@@ -1,0 +1,21 @@
+{
+  "name": "cordova-proguard-android",
+  "version": "1.0.0",
+  "description": "Cordova plugin for ProGuard",
+  "keywords": [
+    "proguard",
+    "android",
+    "optimize",
+    "shrink",
+    "minify",
+    "obfuscate",
+    "tool",
+    "cordova",
+    "plugin"
+  ],
+  "author": {
+    "name": "Shajeer Ahamed",
+    "email": "info4shajeer@gmail.com"
+  },
+  "license": "MIT"
+}
